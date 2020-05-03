@@ -104,6 +104,11 @@ nav.w3-navbar {
     color: #fff;
     outline: 2px solid #3b5998;
 }
+.w3-socials a span.fa.fa-linkedin:hover {
+    background: #2977c9;
+    color: #fff;
+    outline: 2px solid #2977c9;
+}
 .w3-socials a span.fa.fa-vk:hover {
     background: #45668e;
     color: #fff;
