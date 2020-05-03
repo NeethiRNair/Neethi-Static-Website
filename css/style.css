@@ -518,7 +518,8 @@ ul.address li ul.agileits-address-text li {
     display: inline-block;
     font-size: 1em;
     color: #eee;
-    margin-top: 1em;
+    margin-top: 3em;
+    margin-left:1em;
 }
 ul.address li ul.agileits-address-text li:nth-child(1) {
     width: 25%;
@@ -528,6 +529,7 @@ ul.address li ul.agileits-address-text li a {
 }
 .about-social{
 	margin-top:30px;
+	margin-left:5em;
 }
 .about-social a span.fa{
     background: #eee;
