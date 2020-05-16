@@ -57,7 +57,7 @@ a:focus, a:hover {
 
 nav.w3-navbar {
 	padding: .5em 0;
-	background: url(../images/dott.png)repeat 0px 0px;
+	
 }
 .logo a {
     font-size: 38px;
@@ -530,7 +530,7 @@ ul.address li ul.agileits-address-text li a {
 }
 .about-social{
 	margin-top:30px;
-	margin-left:5em;
+	margin-left:10em;
 }
 .about-social a span.fa{
     background: #eee;
@@ -1182,7 +1182,7 @@ img.zoom-img:hover {
 		left: -9.3%;
 	}
 	.connect-social li:last-child {
-		display: none;
+		display: inline-block;
 	}
 }
 @media (max-width:667px) {
